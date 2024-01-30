@@ -62,3 +62,10 @@ services:
 ## Contributing
 
 Feel free to contribute or report bugs.
+
+## Original Authors
+
+I only streamlined the docker build process.
+
+https://github.com/ihatethecloud/filelist-api-whitelist
+https://github.com/cristacheda/filelist-api-whitelist
